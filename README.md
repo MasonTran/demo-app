@@ -9,4 +9,5 @@
 ### Build and Run the application
 
 **Step 1**: mvn clean install
-Right Click on the "DemoApplication" and run it
+
+Right-Click on the "DemoApplication" and run it
