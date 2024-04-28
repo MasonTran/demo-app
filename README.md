@@ -1,4 +1,5 @@
 # demo-app
+**This Demo Application shows how to integrate OpenAPI and Swagger in Spring Boot.**
 
 
 ## Requirements
